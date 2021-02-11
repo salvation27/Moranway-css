@@ -1373,6 +1373,15 @@ padding-top: 155px;
 #offer{
 	padding-bottom: 155px;
 }
+.header_btn_call {
+	display: none;
+}
+.point {
+	display: none;
+}
+.link_cont {
+	display: none;
+}
 }
 @media screen and (max-width: 575px) {
 .offer_form_wrap {
