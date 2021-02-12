@@ -1673,7 +1673,10 @@ overflow: hidden;
     align-items: center;
 }
 
-
+.header_cont_icon svg {
+position: relative;
+top: -2px;
+}
 
 
 
