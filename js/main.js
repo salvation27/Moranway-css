@@ -142,6 +142,15 @@ $(function(){
 });
 
 
+$(function(){
+// открывает модальное окно знакомиться
+  $ ('.burger_test777').click(function(){
+    $('#exampleModal2').arcticmodal();  
+  });
+});
+
+
+
 (function() {
 
   "use strict";
@@ -166,12 +175,7 @@ $(function(){
 // появление меню по нажатии на кнопку
 
 
-$(function(){
-// открывает модальное окно знакомиться
-  $ ('.header_cintact_mail_btn').click(function(){
-    $('#exampleModal1').arcticmodal();  
-  });
-});
+
 
 
 
